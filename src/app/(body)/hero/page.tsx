@@ -3,6 +3,9 @@ import Image from 'next/image'
 export default function Hero() {
     return (
         <div>
+
+
+
             {/* HERO SECTION 1 */}
             <section className='ml-16' >
                 <div className='container mx-auto flex px-5 py-2 md:flex-row flex-col items-center'>
@@ -25,7 +28,7 @@ export default function Hero() {
                     <br></br>
 
                     <div className='ml-24'>
-                        <Image width={600} height={400} src="/images/home.png" alt='image'></Image>
+                        <Image width={550} height={400} src="/images/home.png" alt='image'></Image>
 
                     </div>
                 </div>
@@ -41,7 +44,7 @@ export default function Hero() {
 
 
             {/* SECTION 2 */}
-            <section className="bg-slate-50 body-font flex ml-24 mr-32 mt-52 mb-32 h-72">
+            <section className="bg-slate-50 body-font flex ml-24 mr-36 mt-52 mb-32 h-72">
 
                 {/* left sec */}
                 <div className=' w-3/6 h-80  flex'>
@@ -85,9 +88,9 @@ export default function Hero() {
                         <p className='w-64 mt-7'>Lorem ipsum dolor sit, amet, consectetur adipisicing elit, provident consequatur repellat inventore Ea, ipsa.</p>
                     </div>
 
-                    <div className=' w-screen h-48 flex'>
+                    <div className='ml-20 w-screen h-48 flex'>
                         <h1 className='font-bold text-9xl mt-4 text-gray-500 font-roboto'>2</h1>
-                        <p className='w-64 mt-7 ml-5'>Lorem ipsum dolor sit, amet, consectetur adipisicing elit, provident consequatur repellat inventore Ea, ipsa.</p>
+                        <p className='w-64 mt-7 ml-5'>Lorem ipsum dolor sit, amet consectetur adipisicing elit, provident consequatur repellat inventore Ea, ipsa ut nils.</p>
                     </div>
                 </div>
 
@@ -135,7 +138,7 @@ export default function Hero() {
                         </form>
                     </div>
 
-                    <div className='bg-orange-100 w-screen h-56'><Image width={459} height={200} src="/images/ios.png" alt='image'></Image></div>
+                    <div className=' w-screen h-56'><Image width={459} height={200} src="/images/ios.png" alt='image'></Image></div>
                 </div>
 
                 <div className=' mt-10 ml-6'>

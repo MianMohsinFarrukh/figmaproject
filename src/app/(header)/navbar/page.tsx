@@ -7,7 +7,7 @@ export default function Navbar() {
             {/* HEADER  */}
             <header className="text-gray-600 body-font 
             ">
-                <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center ">
+                <div className="container mx-24 flex flex-wrap p-5 flex-col md:flex-row items-center ">
 
 
                     {/* logo */}
