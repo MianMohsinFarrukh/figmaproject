@@ -113,7 +113,8 @@ export default function Hero() {
                         <Image className='ml-10' width={200} height={200} src="/images/ps.png" alt='image'></Image>
                     </div>
 
-                    <div className='float-end mr-20'>
+
+                    <div className='float-end mr-10'>
                         <button className='bg-black p-1 ml-4 mt-4 flex'><p className='mt-2 font-roboto text-gray-50'>ALL PROJECTS</p> <a href=""><Image className='ml-1 mt-1' width={30} height={30} src="/images/rightarow.png" alt='image'></Image></a></button>
 
                     </div>
