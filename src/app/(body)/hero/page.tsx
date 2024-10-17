@@ -64,7 +64,7 @@ export default function Hero() {
                 <div className='w-5/12 h-64 ml-6'>
 
 
-                    <h2 className='	text-gray-300 text-5xl font-roboto ml-4 mt-6 underline'>About</h2>
+                    <h2 className='	text-gray-500 text-5xl font-roboto ml-4 mt-6 underline'>About</h2>
                     <div className='w-96 h-68 flex'>
                         <p className='text-sm ml-4 mt-4  underline w-18'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum atque consequatur doloribus deleniti porro, veniam asperiores blanditiis quisquam ullam ad laudantium ab! Asperiores neque unde magnam rem magni non  Asperiores neque unde magnam rem magni non .</p></div>
 
