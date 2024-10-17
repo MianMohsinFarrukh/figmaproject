@@ -56,15 +56,6 @@ export default function Footer() {
                 <h3 className='text-gray-50 text-center mt-3 ' >© 2021 All Rights Reserved</h3>
             </footer>
 
-
-
-
-
-
-
-
-
-
         </div>
     )
 }
