@@ -29,6 +29,15 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome! -->
 
+## Figma design
+design :
+[https://www.figma.com/design/CWOjaP3Ultb0xfPrMzw30d/Website-of-architects---free-website-(Community)?node-id=0-1&node-type=canvas&t=2hjUJQYKsJOX4zVF-0](https://www.figma.com/design/CWOjaP3Ultb0xfPrMzw30d/Website-of-architects---free-website-(Community)?node-id=0-1&node-type=canvas&t=2hjUJQYKsJOX4zVF-0)
+
+
+
+
+
+
 ## Deploy on Vercel
 
 checkout our website :
