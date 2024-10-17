@@ -104,7 +104,7 @@ export default function Hero() {
                 <h2 className='text-5xl text-gray-500 font-roboto mb-5 ml-10'>Our Projects</h2>
                 <div className=''>
                     <div className='flex ml-10'>
-                        <Image width={400} height={200} src="/images/rect.png" alt='image'></Image>
+                        <Image width={400} height={400} src="/images/famous.png" alt='image'></Image>
                         <Image className='ml-10' width={400} height={200} src="/images/rw.png" alt='image'></Image>
                     </div>
                     <div className='flex mt-10'>
