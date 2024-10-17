@@ -35,6 +35,11 @@ export default function Hero() {
 
 
 
+
+
+
+
+
             {/* SECTION 2 */}
             <section className="bg-slate-50 body-font flex ml-24 mr-32 mt-52 mb-32 h-72">
 
@@ -51,9 +56,6 @@ export default function Hero() {
                     </div>
 
                 </div>
-
-
-
 
                 {/* right sec */}
                 <div className='w-5/12 h-64 ml-6'>
@@ -119,7 +121,7 @@ export default function Hero() {
 
 
 
-            {/* sectio 5 */}
+            {/* section 5 */}
             <section className='body-font  ml-24 mr-32 mt-52 mb-32 h-96' >
                 <h2 className='text-5xl text-gray-500 font-roboto ml-10 mb-5'>Contact Us</h2>
                 <div className='flex'>
